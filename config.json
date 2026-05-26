@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerselete",
+        "uuid": 478588,
+        "checksum": "2l9uj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
